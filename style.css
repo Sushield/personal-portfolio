@@ -286,7 +286,7 @@ nav ul li a:hover::after{
     background: #6a20da;
 }
 .contact-right form{
-    -webkit-text-fill-color: #080000;
+    -webkit-text-fill-color: #7004f3;
     width: 100%;
 }
 form input, form textarea{
