@@ -282,11 +282,12 @@ nav ul li a:hover::after{
     transform: translateY(-5px);
 }
 .btn.btn2{
+    -webkit-text-fill-color: #e6eee7;
     display: inline-block;
     background: #6a20da;
 }
 .contact-right form{
-    -webkit-text-fill-color: #7004f3;
+    -webkit-text-fill-color: #5f0087;
     width: 100%;
 }
 form input, form textarea{
